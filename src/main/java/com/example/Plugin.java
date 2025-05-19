@@ -1,4 +1,4 @@
-package src.main.java.com.example;
+package com.example;
 
 import java.util.logging.Logger;
 
@@ -19,7 +19,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-public class SpeedHunterPlugin extends JavaPlugin implements Listener {
+public class Plugin extends JavaPlugin implements Listener {
 
     private List<UUID> speedrunners = new ArrayList<>();
     private List<UUID> hunters = new ArrayList<>();

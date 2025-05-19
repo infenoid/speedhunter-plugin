@@ -1,5 +1,5 @@
 name: SpeedHunters
-main: src.main.java.com.example.SpeedHunterPlugin
+main: com.example.Plugin
 version: "1.0"
 api-version: "1.20"
 authors: [YourName]
